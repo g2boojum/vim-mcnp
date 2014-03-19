@@ -57,8 +57,8 @@ his permission to publish his work on github.  Thanks are also due to
 [Seth Johnson](http://reference-man.blogspot.com) for creating a set
 of MCNP file detection rules.
 
-* Copyright 2014      (c) Grant Goodyear
-* Copyright 2009-2014 (c) Giacomo Grasso <giacomo.grasso@enea.it>
+* Copyright 2014      © Grant Goodyear
+* Copyright 2009-2014 © Giacomo Grasso <giacomo.grasso@enea.it>
 
 Modified and distributed under the GPL v 3.0.  See
 `License.md` for more information.
