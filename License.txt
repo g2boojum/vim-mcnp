@@ -1,7 +1,0 @@
-vim-mcnp license
-
-Copyright 2014 (c) Grant Goodyear
-Copyright 2009 (c) Giacomo Grasso
-
-These files are intended as free software, distributed under the GNU
-Public License v.3.
