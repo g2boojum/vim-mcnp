@@ -13,6 +13,9 @@ any existing `~/.vim/scripts.vim` file:
 
     cd ~/.vim/bundle
     git clone git://github.com/g2boojum/vim-mcnp.git
+    
+Alternatively, you can just use [vim-plug](https://github.com/junegunn/vim-plug)
+and put "Plug 'g2boojum/vim-mcnp'" in your `.vimrc` file. 
 
 Please make sure that the following options are set in your vimrc:
 
