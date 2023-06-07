@@ -101,6 +101,12 @@ syn keyword imcnpKeyword	mode kcode
 syn keyword imcnpKeyword	print
 syn keyword imcnpType		col cf ij ik jk
 
+" READ card
+syn keyword imcnpKeyword    read echo noecho 
+syn region imcnpType    start=/file\s*=\s*/   end=/\s/ end=/$/
+syn region imcnpComment start=/encode\s*=\s*/ end=/\s/ end=/$/
+syn region imcnpComment start=/decode\s*=\s*/ end=/\s/ end=/$/
+
 "Catch errors caused by too many right parentheses
 syn region imcnpParen transparent start="(" end=")" contains=ALLBUT,imcnpParenError,@imcnpCommentGroup,cIncluded,@spell
 syn match  imcnpParenError   ")"
